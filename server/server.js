@@ -1,5 +1,1 @@
-function sayHello(name) {
-    console.log('Hello ' + name + '!');
-}
-
-sayHello('Matteo');
+const io = require('socket.io');

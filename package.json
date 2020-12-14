@@ -1,0 +1,8 @@
+{
+  "name": "uhart-cse-capstone",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "socket.io": "^3.0.4"
+  }
+}
