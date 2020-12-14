@@ -1,7 +1,10 @@
 {
   "name": "uhart-cse-capstone",
   "version": "1.0.0",
-  "dependencies": {},
+  "description": "server/client prototype for capstone project",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "devDependencies": {
     "socket.io": "^3.0.4"
   }
