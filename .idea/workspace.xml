@@ -34,8 +34,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,11 +53,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -64,6 +67,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\matte\OneDrive\Documents\GitHub\UHart-CSE-Capstone\server" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebGLtest" type="JavascriptDebugType">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607960786551</updated>
       <workItem from="1607960787924" duration="1665000" />
+      <workItem from="1607994980119" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="added base files">
       <created>1607961116451</created>
@@ -112,6 +121,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added base files" />
@@ -119,15 +129,5 @@
     <MESSAGE value="basic node testing" />
     <MESSAGE value="implemented socket.io" />
     <option name="LAST_COMMIT_MESSAGE" value="implemented socket.io" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="587" y="198" key="#Inspections" timestamp="1607961689279">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="587" y="198" key="#Inspections/0.0.1920.1040/1010.-1080.1920.1040@0.0.1920.1040" timestamp="1607961689279" />
-    <state x="597" y="299" key="FileDocumentManager.FileCacheConflict" timestamp="1607962143284">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="597" y="299" key="FileDocumentManager.FileCacheConflict/0.0.1920.1040/1010.-1080.1920.1040@0.0.1920.1040" timestamp="1607962143284" />
   </component>
 </project>
