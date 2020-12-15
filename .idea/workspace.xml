@@ -59,7 +59,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IndigoCS-webgl-tutorials/01 - Simple Triangle" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -83,6 +83,7 @@
       <updated>1607960786551</updated>
       <workItem from="1607960787924" duration="1665000" />
       <workItem from="1607994980119" duration="510000" />
+      <workItem from="1607999793437" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="added base files">
       <created>1607961116451</created>
