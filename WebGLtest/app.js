@@ -37,11 +37,15 @@ var buttontobutton = function (gl) {
     //this works
 };
 
+const r = Math.random();
+const g = Math.random();
+const b = Math.random();
+
 var triangleVertices = [ // X, Y,       R, G, B
-    0.0, 0.0,    1.0, 0.05, 0.25,
-    0.0, 0.5,  1.0, 0.75, 0.5,
-    0.5, 0.5,   0.1, 1.0, 0.6,
-    0.5, 0.0,   0.5, 0.6, 1.0,
+    0.0, 0.0,    r, g, b,
+    0.0, 0.25,  r, g, b,
+    0.25, 0.25,   r, g, b,
+    0.25, 0.0,   r, g, b,
 
 ];
 var InitDemo = function () {
@@ -142,31 +146,31 @@ buttontobutton.prototype.Begin = function (gl,program) {
 
 buttontobutton.prototype._Update = function () {//(dt)
     if (this.PressedKeys.Forward && !this.PressedKeys.Back) {
-        triangleVertices[1]+=0.0005;
-        triangleVertices[6]+=0.0005;
-        triangleVertices[11]+=0.0005;
-        triangleVertices[16]+=0.0005;
+        triangleVertices[1]+=0.005;
+        triangleVertices[6]+=0.005;
+        triangleVertices[11]+=0.005;
+        triangleVertices[16]+=0.005;
     }
 
     if (this.PressedKeys.Back && !this.PressedKeys.Forward) {
-        triangleVertices[1]-=0.0005;
-        triangleVertices[6]-=0.0005;
-        triangleVertices[11]-=0.0005;
-        triangleVertices[16]-=0.0005;
+        triangleVertices[1]-=0.005;
+        triangleVertices[6]-=0.005;
+        triangleVertices[11]-=0.005;
+        triangleVertices[16]-=0.005;
     }
 
     if (this.PressedKeys.Right && !this.PressedKeys.Left) {
-        triangleVertices[0]+=0.0005;
-        triangleVertices[5]+=0.0005;
-        triangleVertices[10]+=0.0005;
-        triangleVertices[15]+=0.0005;
+        triangleVertices[0]+=0.005;
+        triangleVertices[5]+=0.005;
+        triangleVertices[10]+=0.005;
+        triangleVertices[15]+=0.005;
     }
 
     if (this.PressedKeys.Left && !this.PressedKeys.Right) {
-        triangleVertices[0]-=0.0005;
-        triangleVertices[5]-=0.0005;
-        triangleVertices[10]-=0.0005;
-        triangleVertices[15]-=0.0005;
+        triangleVertices[0]-=0.005;
+        triangleVertices[5]-=0.005;
+        triangleVertices[10]-=0.005;
+        triangleVertices[15]-=0.005;
     }
 };
 
