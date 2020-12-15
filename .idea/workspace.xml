@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cce5ce8-3f1b-451d-b5da-19068bb5816f" name="Default Changelist" comment="implemented socket.io">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGLtest/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebGLtest/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="8cce5ce8-3f1b-451d-b5da-19068bb5816f" name="Default Changelist" comment="implemented socket.io" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,7 @@
       <workItem from="1607960787924" duration="1665000" />
       <workItem from="1607994980119" duration="510000" />
       <workItem from="1607999793437" duration="312000" />
-      <workItem from="1608000338473" duration="717000" />
+      <workItem from="1608000338473" duration="1024000" />
     </task>
     <task id="LOCAL-00001" summary="added base files">
       <created>1607961116451</created>
