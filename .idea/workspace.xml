@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cce5ce8-3f1b-451d-b5da-19068bb5816f" name="Default Changelist" comment="implemented socket.io" />
+    <list default="true" id="8cce5ce8-3f1b-451d-b5da-19068bb5816f" name="Default Changelist" comment="implemented socket.io">
+      <change afterPath="$PROJECT_DIR$/WebGLtest/mutlirendertest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGLtest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebGLtest/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,8 +33,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -53,7 +57,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.13" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IndigoCS-webgl-tutorials/01 - Simple Triangle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebGLtest/index.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -63,7 +67,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="WebGLtest" type="JavascriptDebugType">
+    <configuration name="WebGLtest" type="JavascriptDebugType" uri="http://localhost:63342/app.js/WebGLtest/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -78,7 +82,7 @@
       <workItem from="1607960787924" duration="1665000" />
       <workItem from="1607994980119" duration="510000" />
       <workItem from="1607999793437" duration="312000" />
-      <workItem from="1608000338473" duration="1024000" />
+      <workItem from="1608000338473" duration="2075000" />
     </task>
     <task id="LOCAL-00001" summary="added base files">
       <created>1607961116451</created>
@@ -125,5 +129,11 @@
     <MESSAGE value="basic node testing" />
     <MESSAGE value="implemented socket.io" />
     <option name="LAST_COMMIT_MESSAGE" value="implemented socket.io" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="262" key="FileChooserDialogImpl" timestamp="1608002070111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1010.-1080.1920.1040@0.0.1920.1040" timestamp="1608002070111" />
   </component>
 </project>
